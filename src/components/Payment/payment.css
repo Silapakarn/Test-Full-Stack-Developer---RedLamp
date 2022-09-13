@@ -1,0 +1,18 @@
+.payment{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.payment_container{
+    padding: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+
+.payment_container h2{
+    font-size: 50px
+}

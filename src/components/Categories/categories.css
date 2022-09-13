@@ -1,0 +1,76 @@
+
+.categories{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 40px;
+    /* margin-top: 20px */
+    /* border: 2px solid rgb(187, 106, 0); */
+}
+
+.categories_coffee{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.categories_coffee:hover{
+    background-color: rgb(227, 255, 239);
+}
+
+.categories_coffee h2{
+    padding-top: 10px;
+    color: rgb(136, 136, 136);
+}
+
+.categories_coffee img{
+    max-width: 300px;
+    max-height: 400px;
+}
+
+.categories_tea{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.categories_tea:hover{
+    background-color: rgb(227, 255, 239);
+}
+
+.categories_tea h2{
+    padding-top: 10px;
+    color: rgb(136, 136, 136);
+}
+
+.categories_tea img{
+    max-width: 300px;
+    max-height: 400px;
+}
+
+
+.categories_soft_drink{
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.categories_soft_drink h2{
+    padding-top: 10px;
+    color: rgb(136, 136, 136);
+}
+
+.categories_soft_drink:hover{
+    background-color: rgb(227, 255, 239);
+}
+
+.categories_soft_drink img{
+    max-width: 300px;
+    max-height: 400px;
+}

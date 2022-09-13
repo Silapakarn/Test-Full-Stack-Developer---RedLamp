@@ -1,0 +1,32 @@
+.out_of_stock{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.out_of_stock_container{
+    padding: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 10px;
+}
+
+.out_of_stock_container h1{
+    font-size: 50px
+}
+
+
+.out_of_stock_img{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+
+.Not_enough_product{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+
